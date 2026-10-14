@@ -13,13 +13,13 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> rajkiy engineering college banda | <b>  
+<b> nitesgrana064310@gmail.com    <b>  
+<b> information technology |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
+1|Nitesh|student|Information Technology|rajkiy engineering college banda|niteshrana064310@gmail.com 
 1 | . | . | . | . | .
 2 | . | . | . | . | .
